@@ -5,7 +5,7 @@ Now that we have a functioning space ship, we'll add some asteroids to our game.
 Steps to completing this assignment
 -----------------------------------
 
-1. Create a new Asteroid.pde file in your AsteroidsGame folder. One way to do this is in Sublime is to choose *New | New File* and
+1. Create a new `Asteroid.pde` file in your `AsteroidsGame` folder. One way to do this is in Sublime is to choose *New | New File* and
 then choose *File | Save as* and name your file `Asteroid.pde`. 
 2. Write an `Asteroid` class that `extends Floater` in your Asteroid.pde file. You will need to
 write a constructor and the code to "finish" the `abstract` methods in the Floater class
